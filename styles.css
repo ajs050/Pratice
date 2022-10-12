@@ -203,4 +203,8 @@ footer {
     .footer_links {
         margin-bottom: 24px;
     }
+    nav {
+        display: flex;
+        justify-content: center;
+    }
 }
